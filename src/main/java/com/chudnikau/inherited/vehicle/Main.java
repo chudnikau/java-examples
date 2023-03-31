@@ -1,4 +1,4 @@
-package com.chudnikau.inherited;
+package com.chudnikau.inherited.vehicle;
 
 public class Main {
     public static void main(String[] args) {

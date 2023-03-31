@@ -1,4 +1,4 @@
-package com.chudnikau.inherited;
+package com.chudnikau.inherited.vehicle;
 
 public abstract class Vehicle implements BaseVehicle {
 
