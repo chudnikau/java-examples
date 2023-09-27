@@ -1,14 +1,13 @@
-package com.chudnikau.inherited.constructor;
+package com.chudnikau.constructor;
 
 public class ClassB extends ClassA {
-
-    private final int number = 100;
 
     ClassB() {
         print();
     }
 
     public void print() {
+        int number = 100;
         System.out.println(number);
     }
 

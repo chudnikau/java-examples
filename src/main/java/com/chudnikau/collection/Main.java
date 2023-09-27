@@ -36,5 +36,9 @@ public class Main {
             System.out.println("listValue=" + listValue);
         }
 
+        List<Integer> intList = Arrays.asList(1, 2, 3, 4);
+
+        System.out.println(intList);
+
     }
 }

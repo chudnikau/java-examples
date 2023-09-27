@@ -1,14 +1,14 @@
-package com.chudnikau.inherited.constructor;
+package com.chudnikau.constructor;
 
 public class ClassA {
-
-    private final int number = 200;
 
     ClassA() {
         print();
     }
 
     public void print() {
+        // this method is not called
+        int number = 200;
         System.out.println(number);
     }
 

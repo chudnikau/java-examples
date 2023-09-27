@@ -1,4 +1,4 @@
-package com.chudnikau.inherited.override;
+package com.chudnikau.override;
 
 public class Bart extends Homer {
 

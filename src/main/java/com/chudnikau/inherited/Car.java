@@ -1,4 +1,4 @@
-package com.chudnikau.inherited.vehicle;
+package com.chudnikau.inherited;
 
 public class Car extends Vehicle {
     @Override
